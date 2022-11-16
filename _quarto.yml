@@ -3,16 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "booysej.github.io"
+  title: "Data Scientist"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - cert.qmd
 
 format:
   html:
-    theme: cosmo
+    theme:
+      dark: slate
     css: styles.css
     toc: true
 

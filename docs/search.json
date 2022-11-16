@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "booysej.github.io",
+    "objectID": "cert.html",
+    "href": "cert.html",
+    "title": "Certifications",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Verified AWS Certification Link"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jacques Booysen",
     "section": "",
-    "text": "About this site"
+    "text": "I am a scientist at heart, passionate about data science and with over 10 years experience in the electricity load research field, I am responsible for helping utilities and other companies interpret and manage data and solve complex problems using expertise in a variety of data niches often employing computer science, machine learning, modelling, statistics and advanced visualizations.\nI have been involved in the development of Geo-based load subclasses, a market intelligence system with sentiment analysis using machine learning and integrated resource least-cost planning for energy trading market analysis including the impact of climate change models on this. Recently I have produced day ahead hourly renewable forecasting models for IPP’s."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Jacques Booysen",
+    "section": "Bio",
+    "text": "Bio\nI am a scientist at heart, passionate about data science and with over 10 years experience in the electricity load research field, I am responsible for helping utilities and other companies interpret and manage data and solve complex problems using expertise in a variety of data niches often employing computer science, machine learning, modelling, statistics and advanced visualizations.\nI have been involved in the development of Geo-based load subclasses, a market intelligence system with sentiment analysis using machine learning and integrated resource least-cost planning for energy trading market analysis including the impact of climate change models on this. Recently I have produced day ahead hourly renewable forecasting models for IPP’s."
   }
 ]
