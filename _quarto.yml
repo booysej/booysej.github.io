@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Data Scientist"
+  title: "Data Hacker"
   navbar:
     background: primary
     left:
@@ -14,7 +14,8 @@ website:
 format:
   html:
     theme:
-      dark: slate
+      light: darkly
+      dark: darkly
     css: styles.css
     toc: true
 
