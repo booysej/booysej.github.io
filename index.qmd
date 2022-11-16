@@ -11,8 +11,6 @@ about:
       url: "https://github.com/booysej"
     - text: Email
       url: "mailto:booysenjacques@gmail.com"
-    - text: CV
-      url: "cv.pdf"
     - text: AWS
       url: https://www.credly.com/badges/0ededfba-d894-4049-af5a-d0028f516a23/linked_in?t=rhbncw
 comments: false

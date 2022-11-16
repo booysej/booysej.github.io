@@ -24,12 +24,12 @@ format:
 <!-- TITLE -->
 
 ```{=tex}
-\begin{huge}\begin{center}{\bf ALEX BASS}\end{center}\end{huge}
+\begin{huge}\begin{center}{\bf JACQUES BOOYSEN}\end{center}\end{huge}
 ```
 <!-- CONTACT INFO -->
 
 ```{=tex}
-\begin{center}acbass49@gmail.com ∙ \href{https://alexbass.me/blog.html#category=Project}{Portfolio} ∙ \href{https://github.com/acbass49}{Github} ∙ \href{https://www.linkedin.com/in/alex-bass-4a7465161/}{LinkedIn}
+\begin{center}booysenjacques@gmail.com ∙ \href{https://booysej.github.io/}{Portfolio} ∙ \href{https://github.com/booysej}{Github} ∙ \href{https://www.linkedin.com/in/jacques-booysen-3a1b921/}{LinkedIn}
 \end{center}
 \vspace{15pt}
 ```
