@@ -13,19 +13,23 @@ about:
       url: "mailto:booysenjacques@gmail.com"
     - text: CV
       url: "cv.pdf"
+    - text: AWS
+      url: https://www.credly.com/badges/0ededfba-d894-4049-af5a-d0028f516a23/linked_in?t=rhbncw
 comments: false
 ---
+
 <!-- ::: {.column-page} -->
 
 ## Bio
 
-I am a scientist at heart, passionate about data science and with over 10 years experience in the electricity load research field, I am responsible for helping utilities and other companies interpret and manage data and solve complex problems using expertise in a variety of data niches often employing computer science, machine learning, modelling, statistics and advanced visualizations. 
+I am a scientist at heart, passionate about data science and with over 10 years experience in the electricity load research field, I am responsible for helping utilities and other companies interpret and manage data and solve complex problems using expertise in a variety of data niches often employing computer science, machine learning, modelling, statistics and advanced visualizations.
 
 I have been involved in the development of Geo-based load subclasses, a market intelligence system with sentiment analysis using machine learning and integrated resource least-cost planning for energy trading market analysis including the impact of climate change models on this. Recently I have produced day ahead hourly renewable forecasting models for IPP's.
 
 <!-- I've worked to apply data science techniques to challenges, serving team lead in  -->
 
 <!-- On this site I keep a list of [my publications](papers), [presentations](talks),  -->
+
 <!-- and [my CV](cv.pdf), as well as a [technical blog](blog.html). -->
 
 <!-- <p></p> -->
@@ -33,9 +37,11 @@ I have been involved in the development of Geo-based load subclasses, a market i
 <!-- ## Education -->
 
 <!-- **State University of New York College of Environmental Science and Forestry**   -->
+
 <!-- Syracuse, NY -->
 
 <!-- Ph.D. in Environmental Science | August 2020 - Present (Expected 2024)   -->
+
 <!-- B.S. in Forest Ecosystem Science | August 2015 - December 2018 -->
 
 <!-- <p></p> -->
@@ -53,7 +59,9 @@ I have been involved in the development of Geo-based load subclasses, a market i
 <!-- #### R Packages -->
 
 <!-- **[unifir](https://github.com/mikemahoney218/unifir)** | A Unifying API for Working with Unity in R | 2022   -->
+
 <!-- **[terrainr](https://github.com/ropensci/terrainr)** | Retrieve Data from the USGS National Map and Transform it for 3D Landscape Visualizations | 2021   -->
+
 <!-- **[heddlr](https://github.com/mikemahoney218/heddlr)** | Functional Programming Concepts for R Markdown Documents | 2020 -->
 
 <!-- ::: -->
