@@ -2,4 +2,16 @@
 title: "Certifications"
 ---
 
-[Verified AWS Certification Link![](images/paste-A40DF6F3.png)](https://www.credly.com/badges/0ededfba-d894-4049-af5a-d0028f516a23/linked_in?t=rhbncw)
+This badge was issued to [Jacques Booysen](https://www.credly.com/users/jacques-booysen) on August 27, 2022
+
+Expires on August 27, 2025
+
+[**Verify Badge**](https://www.credly.com/badges/0ededfba-d894-4049-af5a-d0028f516a23/linked_in?t=rhbncw)
+
+# **AWS Certified Solutions Architect -- Associate**
+
+Issued by [Amazon Web Services Training and Certification](https://www.credly.com/org/amazon-web-services)
+
+Earners of this certification have a comprehensive understanding of AWS services and technologies. They demonstrated the ability to build secure and robust solutions using architectural design principles based on customer requirements. Badge owners are able to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant.
+
+![](images/paste-A40DF6F3.png){width="380"}

@@ -14,8 +14,8 @@ website:
 format:
   html:
     theme:
-      light: darkly
-      dark: darkly
+      light: spacelab
+      dark: spacelab
     css: styles.css
     toc: true
 
