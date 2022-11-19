@@ -34,7 +34,11 @@ Find below an overview of some of the research and modelling projects i have bee
 
 #### Hydro
 
-Hydro modelling and exploratory analysis of the Zambezi basin system, using both a [WEAP](https://www.weap21.org/) (Water evaluation and planning) optimization model and R. Converted an existing monthly WEAP model to an hourly model using [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5) rainfall data for the Kufue gorge hydro system. Random forest model for lake Kariba using both [historic satelite dam level values](https://dahiti.dgfi.tum.de/en/31/time_series/) and daily dam discharge values. Initial research was valuable.
+Hydro modelling and exploratory analysis of the Zambezi basin system, using both a [WEAP](https://www.weap21.org/) (Water evaluation and planning) optimization model and R. Converted an existing monthly WEAP model to an daily model using [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5) (per hydro sub-basin) rainfall data, and specifically for the Kufue gorge hydro system. Random forest model for lake Kariba using both [historic satelite dam level values](https://dahiti.dgfi.tum.de/en/31/time_series/) and daily dam discharge values. Initial research was valuable.
+
+![](images/paste-2079CD35.png)
+
+![](images/paste-BE1CBFDA.png)
 
 ## Eskom Geo Based Load Forecasting
 
@@ -86,4 +90,8 @@ Assistant modeler and dashboard developer. The Optimization model estimates leas
 
 ## SAPP Pool Price Forecasting
 
-## Virtual Power Station
+![](images/paste-37D8A8EA.png)
+
+Can forecast the price trend, but better data needed for price spikes.							
+
+MAE: 22 USD/MWh

@@ -24,6 +24,8 @@ Find below an overview of some of the data-sets i have used and gained experienc
 
     -   [Afriscope Spatial LSM Spatial Data](pdf/AfricaScope.pdf)
 
+-   Electrical distribution network lines spatial layers.
+
 -   [Eskom SPOT5](https://www.ee.co.za/wp-content/uploads/legacy/PositionIT%202009/PositionIT%202010/SPOT.pdf) building count
 
     ![](images/paste-EFD30D17.png){width="375"}
@@ -38,18 +40,26 @@ Find below an overview of some of the data-sets i have used and gained experienc
 
     -   Hourly historic wind speed a wind turbine hub level.
 
--   Climate Change Model
+-   Climate Change Models
+
+    -   Global Daily Downscaled Projections ([NEX-GDDP](https://registry.opendata.aws/nasanex/))
 
 ## Time Series Data
 
--   Historic Southern African Power Pool
+-   Historic Southern African Power Pool Data
 
     -   DAM (Day Ahead Market) Price/Volume
 
-    -   
+    -   Weekly Forward Market Price/Volume
 
-## Planning Data
+-   Hourly Integrated Electricity Metering Data (MV90)
 
--   SAPP pool plan
+## Long Term Planning Data
+
+-   SAPP pool plan data
 
 -   South African IRP5
+
+## Etc..
+
+-   Above is just some of the data i have worked with...

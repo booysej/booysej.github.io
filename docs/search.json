@@ -32,21 +32,21 @@
     "href": "data.html#weather-models",
     "title": "Data",
     "section": "Weather Models",
-    "text": "Weather Models\n\nGFS Global Circulation Model\n\nHourly week ahead forecast of a stack of meteorological weather parameters.\n\nERA5 Reanalysis Data\n\nHourly historic wind speed a wind turbine hub level.\n\nClimate Change Model"
+    "text": "Weather Models\n\nGFS Global Circulation Model\n\nHourly week ahead forecast of a stack of meteorological weather parameters.\n\nERA5 Reanalysis Data\n\nHourly historic wind speed a wind turbine hub level.\n\nClimate Change Models\n\nGlobal Daily Downscaled Projections (NEX-GDDP)"
   },
   {
     "objectID": "data.html#time-series-data",
     "href": "data.html#time-series-data",
     "title": "Data",
     "section": "Time Series Data",
-    "text": "Time Series Data\n\nHistoric Southern African Power Pool\n\nDAM (Day Ahead Market) Price/Volume"
+    "text": "Time Series Data\n\nHistoric Southern African Power Pool Data\n\nDAM (Day Ahead Market) Price/Volume\nWeekly Forward Market Price/Volume\n\nHourly Integrated Electricity Metering Data (MV90)"
   },
   {
     "objectID": "data.html#planning-data",
     "href": "data.html#planning-data",
     "title": "Data",
     "section": "Planning Data",
-    "text": "Planning Data\n\nSAPP pool plan\nSouth African IRP5"
+    "text": "Planning Data\n\nSAPP pool plan data\nSouth African IRP5"
   },
   {
     "objectID": "modeling.html",
@@ -67,7 +67,7 @@
     "href": "data.html#geo-spatial-data-models",
     "title": "Data",
     "section": "Geo Spatial Data / Models",
-    "text": "Geo Spatial Data / Models\n\nDigital Elevation model of South Africa\n\nThe Shuttle Radar Topography Mission (SRTM)\nExtracted and used to evaluate various temperature interpolation models for Eskom Transmission losses. (Eskom Research)\n\nIncluding Kriging, IDW and MLR\n\n\nSpatial LSM of South Africa\n\nUsed and linked to develop building density estimates in South Africa for electricity network planning. (GLF)\nAfriscope Spatial LSM Spatial Data\n\nEskom SPOT5 building count"
+    "text": "Geo Spatial Data / Models\n\nDigital Elevation model of South Africa\n\nThe Shuttle Radar Topography Mission (SRTM)\nExtracted and used to evaluate various temperature interpolation models for Eskom Transmission losses. (Eskom Research)\n\nIncluding Kriging, IDW and MLR\n\n\nSpatial LSM of South Africa\n\nUsed and linked to develop building density estimates in South Africa for electricity network planning. (GLF)\nAfriscope Spatial LSM Spatial Data\n\nElectrical distribution network lines spatial layers.\nEskom SPOT5 building count"
   },
   {
     "objectID": "modeling.html#renewable-energy",
@@ -109,14 +109,14 @@
     "href": "modeling.html#sapp-pool-price-forecasting",
     "title": "Modeling",
     "section": "SAPP Pool Price Forecasting",
-    "text": "SAPP Pool Price Forecasting"
+    "text": "SAPP Pool Price Forecasting\n\nCan forecast the price trend, but better data needed for price spikes.\nMAE: 22 USD/MWh"
   },
   {
     "objectID": "modeling.html#renewable-energy-forecasting",
     "href": "modeling.html#renewable-energy-forecasting",
     "title": "Modeling",
     "section": "Renewable Energy Forecasting",
-    "text": "Renewable Energy Forecasting\n\nSolar PV\n\nDeveloped week ahead hourly forecast of Solar PV plants based on global circulation models (GFS), historic satellite data (CAMS/EUMETSAT), historic power output data. Modeled using XGBoost and Random Forest models.\nR Shiny App interface for all Solar/Wind IPP plants using renewable models.\n\n\n\nSolar Potential exploratory tool developed in DIAS (In house R shiny framework - before R shiny existed)\n\n\n\n\nWind\n\nDeveloped week ahead hourly power forecast of Wind farms based on global circulation models (GFS), Wind power curves at air density, Wind speed at hub height based on terrain index.\n\n\n\n\nHydro\nHydro modelling and exploratory analysis of the Zambezi basin system, using both a WEAP (Water evaluation and planning) optimization model and R. Converted an existing monthly WEAP model to an hourly model using ERA5 rainfall data for the Kufue gorge hydro system. Random forest model for lake Kariba using both historic satelite dam level values and daily dam discharge values. Initial research was valuable."
+    "text": "Renewable Energy Forecasting\n\nSolar PV\n\nDeveloped week ahead hourly forecast of Solar PV plants based on global circulation models (GFS), historic satellite data (CAMS/EUMETSAT), historic power output data. Modeled using XGBoost and Random Forest models.\nR Shiny App interface for all Solar/Wind IPP plants using renewable models.\n\n\n\nSolar Potential exploratory tool developed in DIAS (In house R shiny framework - before R shiny existed)\n\n\n\n\nWind\n\nDeveloped week ahead hourly power forecast of Wind farms based on global circulation models (GFS), Wind power curves at air density, Wind speed at hub height based on terrain index.\n\n\n\n\nHydro\nHydro modelling and exploratory analysis of the Zambezi basin system, using both a WEAP (Water evaluation and planning) optimization model and R. Converted an existing monthly WEAP model to an daily model using ERA5 (per hydro sub-basin) rainfall data, and specifically for the Kufue gorge hydro system. Random forest model for lake Kariba using both historic satelite dam level values and daily dam discharge values. Initial research was valuable."
   },
   {
     "objectID": "papers.html",
@@ -138,5 +138,19 @@
     "title": "Modeling",
     "section": "Least cost energy modelling (misc)",
     "text": "Least cost energy modelling (misc)"
+  },
+  {
+    "objectID": "data.html#long-term-planning-data",
+    "href": "data.html#long-term-planning-data",
+    "title": "Data",
+    "section": "Long Term Planning Data",
+    "text": "Long Term Planning Data\n\nSAPP pool plan data\nSouth African IRP5"
+  },
+  {
+    "objectID": "data.html#etc..",
+    "href": "data.html#etc..",
+    "title": "Data",
+    "section": "Etc..",
+    "text": "Etc..\n\nAbove is just some of the data i have worked with…"
   }
 ]
