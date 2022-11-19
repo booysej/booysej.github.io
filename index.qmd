@@ -13,6 +13,8 @@ about:
     - text: GitHub
       icon: github
       url: "https://github.com/booysej"
+    - text: CV
+      href: ./cv.pdf
     - text: Email
       icon: envelope
       url: "mailto:booysenjacques@gmail.com"

@@ -40,6 +40,12 @@ Hydro modelling and exploratory analysis of the Zambezi basin system, using both
 
 ![](images/paste-BE1CBFDA.png)
 
+### Climate Change Energy Model
+
+Developed R Shiny App and assisted in modelling Monte Carlo Simulations using power pool least-cost energy MESSAGE model for the climate resilient infrastructure Development Facility (CRIDF) via a long term energy planning and scenario tool and climate change models to determine climatic and economic impacts in the region on the electricity grid in the Southern African power pool over the coming 30 years (2015-2045)
+
+[Video](https://www.youtube.com/watch?v=o_Hk2SIlpZo&list=PLU3Eox3pL8bugaewHX4iJjzbF3LHJyjRM&index=5&t=353s) of me explaining the SAPP CRIDF model and tool.
+
 ## Eskom Geo Based Load Forecasting
 
 #### Domestic Building Density per LSM Estimates South Africa
