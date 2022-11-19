@@ -26,7 +26,7 @@ Find below an overview of some of the data-sets i have used and gained experienc
 
 -   [Eskom SPOT5](https://www.ee.co.za/wp-content/uploads/legacy/PositionIT%202009/PositionIT%202010/SPOT.pdf) building count
 
-    ![](images/paste-74FB45F9.png){width="377"}
+    ![](images/paste-EFD30D17.png){width="375"}
 
 ## Weather Models
 

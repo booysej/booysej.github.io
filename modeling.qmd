@@ -12,15 +12,29 @@ Find below an overview of some of the research and modelling projects i have bee
 
 #### Solar PV
 
+-   Developed week ahead hourly forecast of Solar PV plants based on global circulation models ([GFS](https://en.wikipedia.org/wiki/Global_Forecast_System)), historic satellite data ([CAMS](https://atmosphere.copernicus.eu/sites/default/files/2022-01/CAMS2_73_2021SC1_D3.2.1_2021_UserGuide_v1.pdf)/[EUMETSAT](https://www.eumetsat.int/)), historic power output data. Modeled using XGBoost and Random Forest models.
+
+-   R Shiny App interface for all Solar/Wind IPP plants using renewable models.
+
+    ![](images/south-africa-windpv-powe.png){width="704"}
+
+    ![](images/paste-D4C0BCA0.png)
+
+    ![](images/paste-FF7151EF.png)
+
 -   Solar Potential exploratory tool developed in DIAS (In house R shiny framework - before R shiny existed)
 
-![](images/paste-96484924.png){width="384"}
+    ![](images/paste-96484924.png){width="548"}
 
 #### Wind
 
+-   Developed week ahead hourly power forecast of Wind farms based on global circulation models (GFS), Wind power curves at air density, Wind speed at hub height based on terrain index.
+
+![](images/paste-8CB18B57.png)
+
 #### Hydro
 
-## 
+Hydro modelling and exploratory analysis of the Zambezi basin system, using both a [WEAP](https://www.weap21.org/) (Water evaluation and planning) optimization model and R. Converted an existing monthly WEAP model to an hourly model using [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5) rainfall data for the Kufue gorge hydro system. Random forest model for lake Kariba using both [historic satelite dam level values](https://dahiti.dgfi.tum.de/en/31/time_series/) and daily dam discharge values. Initial research was valuable.
 
 ## Eskom Geo Based Load Forecasting
 
@@ -42,7 +56,29 @@ Overlayed with Google street view and Spatial LSM intelligence:
 
 ## Inter connector Feasibility Study ANNA
 
+### Energy modelling of ANNA 400kV interconnector between Angola and Namibia (Interconnector Impact Study)
+
+Utilisation of a least-cost energy flow Electricity Market Model in MESSAGE, to estimate the energy flows and changes in energy flows within and between the interconnected SAPP power pool countries 20 years ahead, given the proposed construction of the ANNA 400kV interconnector between Angola and Namibia, with a transfer capability of 700MW ANNA; with a proposed commissioning and operational year 2025 under a most likely base scenario, and limited variant scenarios. Developed in MESSAGE -- based on IRENA model, A dynamic, bottom-up, multi-year energy system model applying linear & mixed-integer optimization techniques.
+
+![](images/paste-1630296B.png)
+
+Base case (ANNA IN - build)
+
+![](images/paste-7FDFAC07.png)
+
+Hydro-logical Shock (ANNA IN - build)
+
+![](images/paste-84CA1974.png)
+
+ANNA OUT (not build)
+
 ## Market Analysis SAPP/EAPP
+
+### SAPP EAPP - Energy Modelling
+
+Assistant modeler and dashboard developer. The Optimization model estimates least-cost energy flows 20 years ahead within & between interconnected SAPP-EAPP (Southern/Eastern African Power Pool) countries and power pools, Developed in MESSAGE -- based on IRENA model, A dynamic, bottom-up, multi-year energy system model applying linear & mixed-integer optimization techniques. Results are shown over a medium to long term till 2040 and for different scenarios.Each country modelled as a node interconnected by cross-border Tx Lines.
+
+## ![](images/paste-912FFF92.png)
 
 ## SAPP Pool Price Forecasting
 
