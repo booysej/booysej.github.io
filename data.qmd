@@ -1,0 +1,53 @@
+---
+title: "Data"
+editor: visual
+jupyter: python3
+---
+
+Find below an overview of some of the datasets i have used and gained experience as a data scientist.
+
+## Geo Spatial Data / Models
+
+-   Digital Elevation model of South Africa
+
+    -   The [Shuttle Radar Topography Mission (SRTM)](https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission)
+
+    -   Extracted and used to evaluate various temperature interpolation models for Eskom Transmission losses. (Eskom Research)
+
+        -   Including Kriging, IDW and MLR
+
+-   Spatial LSM of South Africa
+
+    -   Used and linked to develop building density estimates in South Africa for electricity network planning. (GLF)
+
+    -   [Afriscope Spatial LSM Spatial Data](pdf/AfricaScope.pdf)
+
+-   [Eskom SPOT5](https://www.ee.co.za/wp-content/uploads/legacy/PositionIT%202009/PositionIT%202010/SPOT.pdf) building count
+
+    ![](images/paste-74FB45F9.png){width="377"}
+
+## Weather Models
+
+-   GFS Global Circulation Model
+
+    -   Hourly week ahead forecast of a stack of meteorological weather parameters.
+
+-   ERA5 Reanalysis Data
+
+    -   Hourly historic wind speed a wind turbine hub level.
+
+-   Climate Change Model
+
+## Time Series Data
+
+-   Historic Southern African Power Pool
+
+    -   DAM (Day Ahead Market) Price/Volume
+
+    -   
+
+## Planning Data
+
+-   SAPP pool plan
+
+-   South African IRP5

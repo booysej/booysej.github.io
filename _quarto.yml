@@ -3,14 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: ""
+  title: "Jacques Booysen"
   navbar:
     background: primary
     left:
       - href: index.qmd
         text: Home
       - cert.qmd
-
+      - data.qmd
+      - modeling.qmd
+      - papers.qmd
 format:
   html:
     theme:

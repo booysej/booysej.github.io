@@ -1,0 +1,37 @@
+---
+title: "Modeling"
+editor: visual
+jupyter: python3
+---
+
+Find below an overview of some of the research and modelling projects i have been involved in and gained experience as a data scientist.
+
+## Eskom Geo Based Load Forecasting
+
+#### Domestic Building Density per LSM Estimates South Africa
+
+Linked big and complex spatial data in Oracle Spatial, and developed a spatial filtering algorithm to exclude public spaces.
+
+*Filter out public space areas with open street map layers. Use spatial buffering algorithm below to further filter out public space. Find Nearest Neighbour (NN) distances distribution of all the buildings in each enumeration area. Finding nearest neighbour for 11,310,724 buildings in 80 000 areas. Buffer width = mean(NN) + 1.96 stddev (95th)*
+
+*Draw Buffers around each building (red) merging into each other. Filter out buildings with nearest neighbour distances \> mean(NN) + 2 stddev. New area size (red) is more robust and proved to exclude public space undetected before.* 
+
+![](images/paste-480C815D.png)
+
+**Example where algorithm excludes a public park in an enumeration area**
+
+## Inter connector Feasibility Study ANNA
+
+## Market Analysis SAPP/EAPP
+
+## SAPP Pool Price Forecasting
+
+## Renewable Energy Forecasting
+
+#### Solar PV
+
+#### Wind
+
+#### Hydro
+
+## Virtual Power Station

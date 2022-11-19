@@ -19,5 +19,103 @@
     "title": "Jacques Booysen",
     "section": "Bio",
     "text": "Bio\nI am a scientist at heart, passionate about data science and with over 10 years experience in the electricity load research field, I am responsible for helping utilities and other companies interpret and manage data and solve complex problems using expertise in a variety of data niches often employing computer science, machine learning, modelling, statistics and advanced visualizations.\nI have been involved in the development of Geo-based load subclasses, a market intelligence system with sentiment analysis using machine learning and integrated resource least-cost planning for energy trading market analysis including the impact of climate change models on this. Recently I have produced day ahead hourly renewable forecasting models for IPP’s."
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Find below an overview of some of the datasets i have used and gained experience as a data scientist."
+  },
+  {
+    "objectID": "data.html#weather-models",
+    "href": "data.html#weather-models",
+    "title": "Data",
+    "section": "Weather Models",
+    "text": "Weather Models\n\nGFS Global Circulation Model\n\nHourly week ahead forecast of a stack of meteorological weather parameters.\n\nERA5 Reanalysis Data\n\nHourly historic wind speed a wind turbine hub level.\n\nClimate Change Model"
+  },
+  {
+    "objectID": "data.html#time-series-data",
+    "href": "data.html#time-series-data",
+    "title": "Data",
+    "section": "Time Series Data",
+    "text": "Time Series Data\n\nHistoric Southern African Power Pool\n\nDAM (Day Ahead Market) Price/Volume"
+  },
+  {
+    "objectID": "data.html#planning-data",
+    "href": "data.html#planning-data",
+    "title": "Data",
+    "section": "Planning Data",
+    "text": "Planning Data\n\nSAPP pool plan\nSouth African IRP5"
+  },
+  {
+    "objectID": "modeling.html",
+    "href": "modeling.html",
+    "title": "Modeling",
+    "section": "",
+    "text": "Find below an overview of some of the research and modelling projects i have been involved in and gained experience as a data scientist."
+  },
+  {
+    "objectID": "modeling.html#eskom-geo-based-load-forecasting",
+    "href": "modeling.html#eskom-geo-based-load-forecasting",
+    "title": "Modeling",
+    "section": "Eskom Geo Based Load Forecasting",
+    "text": "Eskom Geo Based Load Forecasting\n\nDomestic Building Density per LSM Estimates South Africa\nLinked big and complex spatial data in Oracle Spatial, and developed a spatial filtering algorithm to exclude public spaces.\nFilter out public space areas with open street map layers. Use spatial buffering algorithm below to further filter out public space. Find Nearest Neighbour (NN) distances distribution of all the buildings in each enumeration area. Finding nearest neighbour for 11,310,724 buildings in 80 000 areas. Buffer width = mean(NN) + 1.96 stddev (95th)\nDraw Buffers around each building (red) merging into each other. Filter out buildings with nearest neighbour distances > mean(NN) + 2 stddev. New area size (red) is more robust and proved to exclude public space undetected before. \n\nExample where algorithm excludes a public park in an enumeration area"
+  },
+  {
+    "objectID": "data.html#geo-spatial-data-models",
+    "href": "data.html#geo-spatial-data-models",
+    "title": "Data",
+    "section": "Geo Spatial Data / Models",
+    "text": "Geo Spatial Data / Models\n\nDigital Elevation model of South Africa\n\nThe Shuttle Radar Topography Mission (SRTM)\nExtracted and used to evaluate various temperature interpolation models for Eskom Transmission losses. (Eskom Research)\n\nIncluding Kriging, IDW and MLR\n\n\nSpatial LSM of South Africa\n\nUsed and linked to develop building density estimates in South Africa for electricity network planning. (GLF)\nAfriscope Spatial LSM Spatial Data\n\nEskom SPOT5 building count"
+  },
+  {
+    "objectID": "modeling.html#renewable-energy",
+    "href": "modeling.html#renewable-energy",
+    "title": "Modeling",
+    "section": "Renewable Energy",
+    "text": "Renewable Energy\n\nSolar PV\n\n\nWind\n\n\nHydro"
+  },
+  {
+    "objectID": "modeling.html#virtual-power-station",
+    "href": "modeling.html#virtual-power-station",
+    "title": "Modeling",
+    "section": "Virtual Power Station",
+    "text": "Virtual Power Station"
+  },
+  {
+    "objectID": "modeling.html#sapp-pool-price",
+    "href": "modeling.html#sapp-pool-price",
+    "title": "Modeling",
+    "section": "SAPP Pool Price",
+    "text": "SAPP Pool Price"
+  },
+  {
+    "objectID": "modeling.html#inter-connector-feasibility-study-anna",
+    "href": "modeling.html#inter-connector-feasibility-study-anna",
+    "title": "Modeling",
+    "section": "Inter connector Feasibility Study ANNA",
+    "text": "Inter connector Feasibility Study ANNA"
+  },
+  {
+    "objectID": "modeling.html#market-analysis-sappeapp",
+    "href": "modeling.html#market-analysis-sappeapp",
+    "title": "Modeling",
+    "section": "Market Analysis SAPP/EAPP",
+    "text": "Market Analysis SAPP/EAPP"
+  },
+  {
+    "objectID": "modeling.html#sapp-pool-price-forecasting",
+    "href": "modeling.html#sapp-pool-price-forecasting",
+    "title": "Modeling",
+    "section": "SAPP Pool Price Forecasting",
+    "text": "SAPP Pool Price Forecasting"
+  },
+  {
+    "objectID": "modeling.html#renewable-energy-forecasting",
+    "href": "modeling.html#renewable-energy-forecasting",
+    "title": "Modeling",
+    "section": "Renewable Energy Forecasting",
+    "text": "Renewable Energy Forecasting\n\nSolar PV\n\n\nWind\n\n\nHydro"
   }
 ]
