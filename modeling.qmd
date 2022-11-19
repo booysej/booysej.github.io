@@ -80,6 +80,10 @@ Assistant modeler and dashboard developer. The Optimization model estimates leas
 
 ## ![](images/paste-912FFF92.png)
 
+## Least cost energy modelling (misc)
+
+![](images/paste-8468D417.png)
+
 ## SAPP Pool Price Forecasting
 
 ## Virtual Power Station
