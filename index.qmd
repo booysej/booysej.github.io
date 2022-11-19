@@ -1,17 +1,23 @@
 ---
 title: "Jacques Booysen"
+subtitle: "Data Scientist, Cloud Software Engineer"
 image: jacques.jpeg
 about:
   template: trestles
+  image-width: 15em
+  image-shape: round
   links:
     - text: LinkedIn
+      icon: linkedin
       url: "https://www.linkedin.com/in/jacques-booysen-3a1b921/"
     - text: GitHub
       icon: github
       url: "https://github.com/booysej"
     - text: Email
+      icon: envelope
       url: "mailto:booysenjacques@gmail.com"
     - text: AWS
+      icon: cloud
       url: https://www.credly.com/badges/0ededfba-d894-4049-af5a-d0028f516a23/linked_in?t=rhbncw
 comments: false
 ---
