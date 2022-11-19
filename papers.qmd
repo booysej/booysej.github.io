@@ -3,3 +3,21 @@ title: "Papers"
 editor: visual
 jupyter: python3
 ---
+
+## [Domestic building density estimates for network planning](https://www.researchgate.net/publication/269303053_Domestic_building_density_estimates_for_network_planning)
+
+April 2014
+
+DOI:[10.1109/DUE.2014.6827765](http://dx.doi.org/10.1109/DUE.2014.6827765)
+
+Conference: 2014 International Conference on the Domestic Use of Energy (DUE)
+
+Authors**:** Jacques Booysen
+
+## [Regional electricity load profile subclasses for distribution network planning Industrial and Commercial Use of Energy Conference (ICUE) · Aug 1, 2013](https://www.researchgate.net/publication/360611852_Regional_electricity_load_profile_subclasses_for_distribution_network_planning_Industrial_and_Commercial_Use_of_Energy_Conference_ICUE_Aug_1_2013)
+
+August 2013
+
+Project: [Regional electricity load profile subclasses for distribution network planningRegional electricity load profile subclasses for distribution network planning Industrial and Commercial Use of Energy Conference (ICUE) · Aug 1, 2013](https://www.researchgate.net/project/Regional-electricity-load-profile-subclasses-for-distribution-network-planningRegional-electricity-load-profile-subclasses-for-distribution-network-planning-Industrial-and-Commercial-Use-of-Energy-Con)
+
+Authors**:** Jacques Booysen

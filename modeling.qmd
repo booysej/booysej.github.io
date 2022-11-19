@@ -4,7 +4,23 @@ editor: visual
 jupyter: python3
 ---
 
-Find below an overview of some of the research and modelling projects i have been involved in and gained experience as a data scientist.
+Find below an overview of some of the research and modelling projects i have been involved in and gained experience as a data scientist.[^1]
+
+[^1]: This page was created by me with Quarto <https://quarto.org/>
+
+## Renewable Energy Forecasting
+
+#### Solar PV
+
+-   Solar Potential exploratory tool developed in DIAS (In house R shiny framework - before R shiny existed)
+
+![](images/paste-96484924.png){width="384"}
+
+#### Wind
+
+#### Hydro
+
+## 
 
 ## Eskom Geo Based Load Forecasting
 
@@ -16,22 +32,18 @@ Linked big and complex spatial data in Oracle Spatial, and developed a spatial f
 
 *Draw Buffers around each building (red) merging into each other. Filter out buildings with nearest neighbour distances \> mean(NN) + 2 stddev. New area size (red) is more robust and proved to exclude public space undetected before.* 
 
-![](images/paste-480C815D.png)
+![](images/paste-480C815D.png){width="484"}
 
 **Example where algorithm excludes a public park in an enumeration area**
+
+Overlayed with Google street view and Spatial LSM intelligence:
+
+![](images/paste-E22E7BC0.png){width="489"}
 
 ## Inter connector Feasibility Study ANNA
 
 ## Market Analysis SAPP/EAPP
 
 ## SAPP Pool Price Forecasting
-
-## Renewable Energy Forecasting
-
-#### Solar PV
-
-#### Wind
-
-#### Hydro
 
 ## Virtual Power Station

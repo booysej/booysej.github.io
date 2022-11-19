@@ -94,7 +94,7 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./modeling.html" aria-current="page">Modeling</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./papers.html">My Papers</a>
+    <a class="nav-link" href="./papers.html">Papers</a>
   </li>  
 </ul>
               <div class="quarto-toggle-container">
@@ -114,11 +114,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#eskom-geo-based-load-forecasting" id="toc-eskom-geo-based-load-forecasting" class="nav-link active" data-scroll-target="#eskom-geo-based-load-forecasting">Eskom Geo Based Load Forecasting</a></li>
+  <li><a href="#renewable-energy-forecasting" id="toc-renewable-energy-forecasting" class="nav-link active" data-scroll-target="#renewable-energy-forecasting">Renewable Energy Forecasting</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
+  <li><a href="#eskom-geo-based-load-forecasting" id="toc-eskom-geo-based-load-forecasting" class="nav-link" data-scroll-target="#eskom-geo-based-load-forecasting">Eskom Geo Based Load Forecasting</a></li>
   <li><a href="#inter-connector-feasibility-study-anna" id="toc-inter-connector-feasibility-study-anna" class="nav-link" data-scroll-target="#inter-connector-feasibility-study-anna">Inter connector Feasibility Study ANNA</a></li>
   <li><a href="#market-analysis-sappeapp" id="toc-market-analysis-sappeapp" class="nav-link" data-scroll-target="#market-analysis-sappeapp">Market Analysis SAPP/EAPP</a></li>
   <li><a href="#sapp-pool-price-forecasting" id="toc-sapp-pool-price-forecasting" class="nav-link" data-scroll-target="#sapp-pool-price-forecasting">SAPP Pool Price Forecasting</a></li>
-  <li><a href="#renewable-energy-forecasting" id="toc-renewable-energy-forecasting" class="nav-link" data-scroll-target="#renewable-energy-forecasting">Renewable Energy Forecasting</a></li>
   <li><a href="#virtual-power-station" id="toc-virtual-power-station" class="nav-link" data-scroll-target="#virtual-power-station">Virtual Power Station</a></li>
   </ul>
 </nav>
@@ -142,7 +143,26 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Find below an overview of some of the research and modelling projects i have been involved in and gained experience as a data scientist.</p>
+<p>Find below an overview of some of the research and modelling projects i have been involved in and gained experience as a data scientist.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<section id="renewable-energy-forecasting" class="level2">
+<h2 class="anchored" data-anchor-id="renewable-energy-forecasting">Renewable Energy Forecasting</h2>
+<section id="solar-pv" class="level4">
+<h4 class="anchored" data-anchor-id="solar-pv">Solar PV</h4>
+<ul>
+<li>Solar Potential exploratory tool developed in DIAS (In house R shiny framework - before R shiny existed)</li>
+</ul>
+<p><img src="images/paste-96484924.png" class="img-fluid" width="384"></p>
+</section>
+<section id="wind" class="level4">
+<h4 class="anchored" data-anchor-id="wind">Wind</h4>
+</section>
+<section id="hydro" class="level4">
+<h4 class="anchored" data-anchor-id="hydro">Hydro</h4>
+</section>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+</section>
 <section id="eskom-geo-based-load-forecasting" class="level2">
 <h2 class="anchored" data-anchor-id="eskom-geo-based-load-forecasting">Eskom Geo Based Load Forecasting</h2>
 <section id="domestic-building-density-per-lsm-estimates-south-africa" class="level4">
@@ -150,8 +170,10 @@ ul.task-list li input[type="checkbox"] {
 <p>Linked big and complex spatial data in Oracle Spatial, and developed a spatial filtering algorithm to exclude public spaces.</p>
 <p><em>Filter out public space areas with open street map layers. Use spatial buffering algorithm below to further filter out public space. Find Nearest Neighbour (NN) distances distribution of all the buildings in each enumeration area. Finding nearest neighbour for 11,310,724 buildings in 80 000 areas. Buffer width = mean(NN) + 1.96 stddev (95th)</em></p>
 <p><em>Draw Buffers around each building (red) merging into each other. Filter out buildings with nearest neighbour distances &gt; mean(NN) + 2 stddev. New area size (red) is more robust and proved to exclude public space undetected before.</em>&nbsp;</p>
-<p><img src="images/paste-480C815D.png" class="img-fluid"></p>
+<p><img src="images/paste-480C815D.png" class="img-fluid" width="484"></p>
 <p><strong>Example where algorithm excludes a public park in an enumeration area</strong></p>
+<p>Overlayed with Google street view and Spatial LSM intelligence:</p>
+<p><img src="images/paste-E22E7BC0.png" class="img-fluid" width="489"></p>
 </section>
 </section>
 <section id="inter-connector-feasibility-study-anna" class="level2">
@@ -163,25 +185,19 @@ ul.task-list li input[type="checkbox"] {
 <section id="sapp-pool-price-forecasting" class="level2">
 <h2 class="anchored" data-anchor-id="sapp-pool-price-forecasting">SAPP Pool Price Forecasting</h2>
 </section>
-<section id="renewable-energy-forecasting" class="level2">
-<h2 class="anchored" data-anchor-id="renewable-energy-forecasting">Renewable Energy Forecasting</h2>
-<section id="solar-pv" class="level4">
-<h4 class="anchored" data-anchor-id="solar-pv">Solar PV</h4>
-</section>
-<section id="wind" class="level4">
-<h4 class="anchored" data-anchor-id="wind">Wind</h4>
-</section>
-<section id="hydro" class="level4">
-<h4 class="anchored" data-anchor-id="hydro">Hydro</h4>
-</section>
-</section>
 <section id="virtual-power-station" class="level2">
 <h2 class="anchored" data-anchor-id="virtual-power-station">Virtual Power Station</h2>
 
 
 </section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>This page was created by me with Quarto <a href="https://quarto.org/" class="uri">https://quarto.org/</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Jacques Booysen",
     "section": "",
-    "text": "I am a scientist at heart, passionate about data science, problem solving and software engineering. I am responsible for helping utilities and other companies interpret and manage data and solve complex problems using expertise in a variety of data niches often employing computer science, server-less cloud computing , machine learning, optimisation, modelling, statistics and advanced visualisations.\nI have been involved in the development of Geo-based load sub classes , a market intelligence system with sentiment analysis using machine learning and integrated resource least-cost planning for energy trading market analysis on the Southern African Power Pool, including the impact of climate change models on this. I have produced day ahead hourly renewable forecasting models for IPP's. Solutions were developed using R, Python, specialised software and tableau.\nCurrently I am the technical lead in the disruptive innovation business unit at enerweb, I provide Data Science as a service on the Python based in house SaaS technology stack enerflow. We use AWS micro services architecture and a custom framework i developed that runs on top of Apache Airflow making use of AWS Lambda and allowing you to run Jupiter notebooks in the cloud from MS Excel. My strength lies in the ability to do rapid prototyping because of my strong software engineering background, and my passion for machine learning and constantly improving doing things a better way."
+    "text": "I am a scientist at heart, passionate about data science, problem solving and software engineering. I am responsible for helping utilities and other companies interpret and manage data and solve complex problems using expertise in a variety of data niches often employing computer science, server-less cloud computing , machine learning, optimisation, modelling, statistics and advanced visualisations.\nI have been involved in the development of Geo-based load sub classes , a market intelligence system with sentiment analysis using machine learning and integrated resource least-cost planning for energy trading market analysis on the Southern African Power Pool, including the impact of climate change models on this. I have produced day ahead hourly renewable forecasting models for IPP’s. Solutions were developed using R, Python, specialised software and tableau.\nCurrently I am the technical lead in the disruptive innovation business unit at enerweb, I provide Data Science as a service on the Python based in house SaaS technology stack enerflow. We use AWS micro services architecture and a custom framework i developed that runs on top of Apache Airflow making use of AWS Lambda and allowing you to run Jupiter notebooks in the cloud from MS Excel. My strength lies in the ability to do rapid prototyping because of my strong software engineering background, and my passion for machine learning and constantly improving doing things a better way."
   },
   {
     "objectID": "index.html#bio",
@@ -25,7 +25,7 @@
     "href": "data.html",
     "title": "Data",
     "section": "",
-    "text": "Find below an overview of some of the datasets i have used and gained experience as a data scientist."
+    "text": "Find below an overview of some of the data-sets i have used and gained experience as a data scientist.1"
   },
   {
     "objectID": "data.html#weather-models",
@@ -53,14 +53,14 @@
     "href": "modeling.html",
     "title": "Modeling",
     "section": "",
-    "text": "Find below an overview of some of the research and modelling projects i have been involved in and gained experience as a data scientist."
+    "text": "Find below an overview of some of the research and modelling projects i have been involved in and gained experience as a data scientist.1"
   },
   {
     "objectID": "modeling.html#eskom-geo-based-load-forecasting",
     "href": "modeling.html#eskom-geo-based-load-forecasting",
     "title": "Modeling",
     "section": "Eskom Geo Based Load Forecasting",
-    "text": "Eskom Geo Based Load Forecasting\n\nDomestic Building Density per LSM Estimates South Africa\nLinked big and complex spatial data in Oracle Spatial, and developed a spatial filtering algorithm to exclude public spaces.\nFilter out public space areas with open street map layers. Use spatial buffering algorithm below to further filter out public space. Find Nearest Neighbour (NN) distances distribution of all the buildings in each enumeration area. Finding nearest neighbour for 11,310,724 buildings in 80 000 areas. Buffer width = mean(NN) + 1.96 stddev (95th)\nDraw Buffers around each building (red) merging into each other. Filter out buildings with nearest neighbour distances > mean(NN) + 2 stddev. New area size (red) is more robust and proved to exclude public space undetected before. \n\nExample where algorithm excludes a public park in an enumeration area"
+    "text": "Eskom Geo Based Load Forecasting\n\nDomestic Building Density per LSM Estimates South Africa\nLinked big and complex spatial data in Oracle Spatial, and developed a spatial filtering algorithm to exclude public spaces.\nFilter out public space areas with open street map layers. Use spatial buffering algorithm below to further filter out public space. Find Nearest Neighbour (NN) distances distribution of all the buildings in each enumeration area. Finding nearest neighbour for 11,310,724 buildings in 80 000 areas. Buffer width = mean(NN) + 1.96 stddev (95th)\nDraw Buffers around each building (red) merging into each other. Filter out buildings with nearest neighbour distances > mean(NN) + 2 stddev. New area size (red) is more robust and proved to exclude public space undetected before. \n\nExample where algorithm excludes a public park in an enumeration area\nOverlayed with Google street view and Spatial LSM intelligence:"
   },
   {
     "objectID": "data.html#geo-spatial-data-models",
@@ -116,6 +116,20 @@
     "href": "modeling.html#renewable-energy-forecasting",
     "title": "Modeling",
     "section": "Renewable Energy Forecasting",
-    "text": "Renewable Energy Forecasting\n\nSolar PV\n\n\nWind\n\n\nHydro"
+    "text": "Renewable Energy Forecasting\n\nSolar PV\n\nSolar Potential exploratory tool developed in DIAS (In house R shiny framework - before R shiny existed)\n\n\n\n\nWind\n\n\nHydro"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "April 2014\nDOI:10.1109/DUE.2014.6827765\nConference: 2014 International Conference on the Domestic Use of Energy (DUE)\nAuthors: Jacques Booysen"
+  },
+  {
+    "objectID": "papers.html#regional-electricity-load-profile-subclasses-for-distribution-network-planning-industrial-and-commercial-use-of-energy-conference-icue-aug-1-2013",
+    "href": "papers.html#regional-electricity-load-profile-subclasses-for-distribution-network-planning-industrial-and-commercial-use-of-energy-conference-icue-aug-1-2013",
+    "title": "Papers",
+    "section": "Regional electricity load profile subclasses for distribution network planning Industrial and Commercial Use of Energy Conference (ICUE) · Aug 1, 2013",
+    "text": "Regional electricity load profile subclasses for distribution network planning Industrial and Commercial Use of Energy Conference (ICUE) · Aug 1, 2013\nAugust 2013\nProject: Regional electricity load profile subclasses for distribution network planningRegional electricity load profile subclasses for distribution network planning Industrial and Commercial Use of Energy Conference (ICUE) · Aug 1, 2013\nAuthors: Jacques Booysen"
   }
 ]
