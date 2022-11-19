@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Data Scientist / Cloud Software Engineer"
+  title: "Data Scientist/Cloud Software Engineer"
   navbar:
     background: primary
     left:

@@ -41,13 +41,13 @@ format:
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf University of Virgina}\end{flushleft}
-    \begin{flushright}Expected Apr 2023\end{flushright}
+    \begin{flushleft}{\bf University of Johannesburg}\end{flushleft}
+    \begin{flushright}Jan 2002\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}Master of Science: Data Science\end{flushleft}
-    \begin{flushright}Charlottesville, VA\end{flushright}
+    \begin{flushleft}B.Sc (Hons) - Computer Science\end{flushleft}
+    \begin{flushright}Johannesburg, South Africa\end{flushright}
   \end{multicols}
   \vspace{0.15cm}
 \end{large}
@@ -69,6 +69,25 @@ format:
   \textit{Thesis: Political Message Detection and Likeability in Films (n=1000 survey)}
 \end{large}
 \vspace{3pt}
+```
+<!-- CERTIFICATIONS: 1ST BULLET -->
+
+```{=tex}
+\begin{large}
+  {\bf CERTIFICATIONS}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Amazon Web Services}\end{flushleft}
+    \begin{flushright}Aug 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}AWS Certified Solutions Architect – Associate\end{flushleft}
+    \begin{flushright} \href{https://www.credly.com/badges/0ededfba-d894-4049-af5a-d0028f516a23/linked_in?t=rhbncw}{Verify Link} \end{flushright}
+  \end{multicols}
+  \vspace{0.15cm}
+\end{large}
 ```
 <!-- EXPERIENCE : 1ST BULLET-->
 
