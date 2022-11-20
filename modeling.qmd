@@ -98,6 +98,6 @@ Assistant modeler and dashboard developer. The Optimization model estimates leas
 
 ![](images/paste-37D8A8EA.png)
 
-Can forecast the price trend, but better data needed for price spikes.							
+Can forecast the price trend, but better data needed for price spikes.
 
 MAE: 22 USD/MWh

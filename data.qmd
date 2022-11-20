@@ -60,6 +60,6 @@ Find below an overview of some of the data-sets i have used and gained experienc
 
 -   South African IRP5
 
-## Etc..
+## 
 
--   Above is just some of the data i have worked with...
+...
