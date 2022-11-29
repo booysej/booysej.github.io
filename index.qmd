@@ -28,35 +28,17 @@ comments: false
 
 ## Bio
 
-I am a scientist at heart, passionate about Data Science, problem solving and software
-engineering. I am responsible for helping utilities and other companies interpret and
-manage data and solve complex problems using expertise in a variety of data niches
-often employing computer science, serverless cloud computing , machine learning,
-optimisation, modelling, statistics and advanced visualisations.						
+I am a scientist at heart, passionate about Data Science, problem solving and software engineering. I am responsible for helping utilities and other companies interpret and manage data and solve complex problems using expertise in a variety of data niches often employing computer science, serverless cloud computing , machine learning, optimisation, modelling, statistics and advanced visualisations.
 
-I created renewable energy forecasting models and interactive tools for forecasting
-Solar PV, Wind and Hydro power plant outputs hourly using global circulation models
-and historic satellite data/models. I have also been involved in the development of
-various electricity load research and energy modelling projects.				
+I created renewable energy forecasting models and interactive tools for forecasting Solar PV, Wind and Hydro power plant outputs hourly using global circulation models and historic satellite data/models. I have also been involved in the development of various electricity load research and energy modelling projects.
 
-My current role is technical lead and data scientist in the disruptive innovation
-business unit at Enerweb, I created frameworks that our team use to provide Data
-Science as a Service on our Python based in house developed SaaS technology stack
-named Enerflow. I am an AWS certified solutions architect, and our stack uses AWS
-micro services architecture and Apache Airflow, allowing us to run Jupyter notebooks
-in the cloud from MS Excel.					
+My current role is technical lead and data scientist in the disruptive innovation business unit at Enerweb, I created frameworks that our team use to provide Data Science as a Service on our Python based in house developed SaaS technology stack named Enerflow. I am an AWS certified solutions architect, and our stack uses AWS micro services architecture and Apache Airflow, allowing us to run Jupyter notebooks in the cloud from MS Excel.
 
-My strength lies in my ability to do rapid prototyping because of my strong software
-engineering background and anything is possible attitude, my passion for machine
-learning and constantly improving myself and thinking how we as a team can do things
-in a better way.
-
-			
+My strength lies in my ability to do rapid prototyping because of my strong software engineering background and anything is possible attitude, my passion for machine learning and constantly improving myself and thinking how we as a team can do things in a better way.
 
 **Skills:** AWS/Cloud, Machine Learning, Renewable Energy, R, Python, Rapid Prototyping, Apache Airflow,Energy Modelling, Geo-spatial Data
 
-					
-  
+![](images/paste-C93C196E.png)
 
 <!-- I've worked to apply data science techniques to challenges, serving team lead in  -->
 
