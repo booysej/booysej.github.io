@@ -26,18 +26,9 @@ Find below an overview of some of the research and modelling projects i have bee
 
     ![](images/paste-96484924.png){width="548"}
 
-    ***Part1:*** Regression
-    model mapping the relationship between historic AC power output and cams
-    satellite irradiance (good estimates) after solar tracking transposition, this
-    can be improved if metered (actual) historic solar irradiance data for the
-    plant measured at site are made available. Below is a sample of the uncertainty
-    of our current calibration regression model on average (6.87% hourly).
-    ![](images/paste-C1353BED.png)
+    ***Part1:*** Regression model mapping the relationship between historic AC power output and cams satellite irradiance (good estimates) after solar tracking transposition, this can be improved if metered (actual) historic solar irradiance data for the plant measured at site are made available. Below is a sample of the uncertainty of our current calibration regression model on average (6.87% hourly). ![](images/paste-C1353BED.png)
 
-    ***Part 2***: After applying the global circulation hourly weather model (GFS)
-    forecast (hourly weather forecasts have relatively high
-    uncertainty) to model in Part 1, additional uncertainty is introduced, so as to
-    produce the future hourly forecast. For example:
+    ***Part 2***: After applying the global circulation hourly weather model (GFS) forecast (hourly weather forecasts have relatively high uncertainty) to model in Part 1, additional uncertainty is introduced, so as to produce the future hourly forecast. For example:
 
     see difference between 1 day ahead and
 
