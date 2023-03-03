@@ -4,14 +4,14 @@
     "href": "cert.html",
     "title": "Certifications",
     "section": "",
-    "text": "Expires on August 27, 2025\nVerify Badge\n\nAWS Certified Solutions Architect – Associate\nIssued by Amazon Web Services Training and Certification\nEarners of this certification have a comprehensive understanding of AWS services and technologies. They demonstrated the ability to build secure and robust solutions using architectural design principles based on customer requirements. Badge owners are able to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant."
+    "text": "This badge was issued to Jacques Booysen on August 27, 2022\nExpires on August 27, 2025\nVerify Badge\n\nAWS Certified Solutions Architect – Associate\nIssued by Amazon Web Services Training and Certification\nEarners of this certification have a comprehensive understanding of AWS services and technologies. They demonstrated the ability to build secure and robust solutions using architectural design principles based on customer requirements. Badge owners are able to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jacques Booysen",
     "section": "",
-    "text": "I am a scientist at heart, passionate about Data Science, problem solving and software engineering. I am responsible for helping utilities and other companies interpret and manage data and solve complex problems using expertise in a variety of data niches often employing computer science, serverless cloud computing , machine learning, optimisation, modelling, statistics and advanced visualisations.\nI created renewable energy forecasting models and interactive tools for forecasting Solar PV, Wind and Hydro power plant outputs hourly using global circulation models and historic satellite data/models. I have also been involved in the development of various electricity load research and energy modelling projects.\nMy current role is technical lead and data scientist in the disruptive innovation business unit at Enerweb, I created frameworks that our team use to provide Data Science as a Service on our Python based in house developed SaaS technology stack named Enerflow. I am an AWS certified solutions architect, and our stack uses AWS micro services architecture and Apache Airflow, allowing us to run Jupyter notebooks in the cloud from MS Excel.\nMy strength lies in my ability to do rapid prototyping because of my strong software engineering background and anything is possible attitude, my passion for machine learning and constantly improving myself and thinking how we as a team can do things in a better way.\nSkills: AWS/Cloud, Machine Learning, Renewable Energy, R, Python, Rapid Prototyping, Apache Airflow,Energy Modelling, Geo-spatial Data"
+    "text": "As a Senior Data Scientist at Enerweb in Johannesburg, South Africa, I have a passion for problem solving and software engineering, using a variety of data niches including machine learning, optimization, and advanced visualizations.\nMy expertise includes developing renewable energy forecasting models and interactive tools using global circulation models and historic satellite data, as well as creating frameworks for providing Data Science as a Service on a Python-based SaaS technology stack named Enerflow. With experience in AWS microservices architecture, Apache Airflow, and running Jupyter notebooks in the cloud from MS Excel, I excel in rapid prototyping and constantly strive for improvement.\nMy skills include AWS/Cloud, machine learning, renewable energy, R and Python, and rapid prototyping. Outside of work, I enjoy adventure racing, ultra trail running, and mountain sports. #DataScience #MachineLearning #AWS #RenewableEnergy #Python #EnergyModelling #MonteCarloSimulation #SpatialData #DisruptiveInnovation"
   },
   {
     "objectID": "index.html#bio",
@@ -159,5 +159,26 @@
     "title": "Data",
     "section": "",
     "text": "…"
+  },
+  {
+    "objectID": "pet/ChatGPT_Listen/listen.html",
+    "href": "pet/ChatGPT_Listen/listen.html",
+    "title": "Jacques Booysen",
+    "section": "",
+    "text": "import speech_recognition as sr\nimport requests\nimport json\n\n\n\n# Set up the speech recognition object\nr = sr.Recognizer()\n\n# Set up the ChatGPT API endpoint\nurl = \"https://api.openai.com/v1/engines/davinci-codex/completions\"\n\n# Start listening to audio from the default microphone\nwith sr.Microphone() as source:\n    print(\"Listening...\")\n    audio = r.listen(source)\n\n# Recognize the audio using the speech recognition library\ntry:\n    text = r.recognize_google(audio)\n    print(\"You said: \" + text)\nexcept sr.UnknownValueError:\n    print(\"Could not understand audio\")\nexcept sr.RequestError as e:\n    print(\"Error: {0}\".format(e))\n\n# Set up the request data for the ChatGPT API\ndata = {\n    \"prompt\": text,\n    \"max_tokens\": 100,\n    \"temperature\": 0.5\n}\n\n# Set up the API request headers\nheaders = {\n    \"Content-Type\": \"application/json\",\n    \"Authorization\": \"Bearer YOUR_API_KEY\"\n}\n\n# Send the request to the ChatGPT API\nresponse = requests.post(url, data=json.dumps(data), headers=headers)\n\n# Print the response from the ChatGPT API\nprint(response.json())"
+  },
+  {
+    "objectID": "data.html#geo-spatial-data-used-created",
+    "href": "data.html#geo-spatial-data-used-created",
+    "title": "Data",
+    "section": "Geo Spatial Data Used / Created",
+    "text": "Geo Spatial Data Used / Created\n\nDigital Elevation model of South Africa\n\nThe Shuttle Radar Topography Mission (SRTM)\nExtracted and used to evaluate various temperature interpolation models for Eskom Transmission losses. (Eskom Research)\n\nIncluding Kriging, IDW and MLR\n\n\nSpatial LSM of South Africa\n\nUsed and linked to develop building density estimates in South Africa for electricity network planning. (GLF)\nAfriscope Spatial LSM Spatial Data\n\nElectrical distribution network lines spatial layers.\nEskom SPOT5 building count"
+  },
+  {
+    "objectID": "data.html#geo-spatial-data-experience",
+    "href": "data.html#geo-spatial-data-experience",
+    "title": "Data",
+    "section": "Geo Spatial Data Experience",
+    "text": "Geo Spatial Data Experience\n\nDigital Elevation model of South Africa\n\nThe Shuttle Radar Topography Mission (SRTM)\nExtracted and used to evaluate various temperature interpolation models for Eskom Transmission losses. (Eskom Research)\n\nIncluding Kriging, IDW and MLR\n\n\nSpatial LSM of South Africa\n\nUsed and linked to develop building density estimates in South Africa for electricity network planning. (GLF)\nAfriscope Spatial LSM Spatial Data\n\nElectrical distribution network lines spatial layers.\nEskom SPOT5 building count"
   }
 ]

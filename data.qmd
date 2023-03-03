@@ -8,7 +8,7 @@ Find below an overview of some of the data-sets i have used and gained experienc
 
 [^1]: This page was created by me with Quarto <https://quarto.org/>
 
-## Geo Spatial Data / Models
+## Geo Spatial Data Experience
 
 -   Digital Elevation model of South Africa
 

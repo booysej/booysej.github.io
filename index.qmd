@@ -1,6 +1,6 @@
 ---
 title: "Jacques Booysen"
-subtitle: "Data Scientist, Cloud Software Engineer - Enerweb"
+subtitle: "Senior Data Scientist | Expert in Energy Modelling & Renewable Energy | AWS Certified Solutions Architect | Let's solve complex problems together!"
 image: jacques.jpeg
 about:
   template: trestles
@@ -28,19 +28,17 @@ comments: false
 
 ## Bio
 
-I am a scientist at heart, passionate about Data Science, problem solving and software engineering. I am responsible for helping utilities and other companies interpret and manage data and solve complex problems using expertise in a variety of data niches often employing computer science, serverless cloud computing , machine learning, optimisation, modelling, statistics and advanced visualisations.
+As a Senior Data Scientist at Enerweb in Johannesburg, South Africa, I have a passion for problem solving and software engineering, using a variety of data niches including machine learning, optimization, and advanced visualizations.
 
-I created renewable energy forecasting models and interactive tools for forecasting Solar PV, Wind and Hydro power plant outputs hourly using global circulation models and historic satellite data/models. I have also been involved in the development of various electricity load research and energy modelling projects.
+My expertise includes developing renewable energy forecasting models and interactive tools using global circulation models and historic satellite data, as well as creating frameworks for providing Data Science as a Service on a Python-based SaaS technology stack named Enerflow. With experience in AWS microservices architecture, Apache Airflow, and running Jupyter notebooks in the cloud from MS Excel, I excel in rapid prototyping and constantly strive for improvement.
 
-My current role is technical lead and data scientist in the disruptive innovation business unit at Enerweb, I created frameworks that our team use to provide Data Science as a Service on our Python based in house developed SaaS technology stack named Enerflow. I am an AWS certified solutions architect, and our stack uses AWS micro services architecture and Apache Airflow, allowing us to run Jupyter notebooks in the cloud from MS Excel.
+My skills include AWS/Cloud, machine learning, renewable energy, R and Python, and rapid prototyping. Outside of work, I enjoy adventure racing, ultra trail running, and mountain sports. **#DataScience #MachineLearning #AWS #RenewableEnergy #Python #EnergyModelling #MonteCarloSimulation #SpatialData #DisruptiveInnovation**
 
-My strength lies in my ability to do rapid prototyping because of my strong software engineering background and anything is possible attitude, my passion for machine learning and constantly improving myself and thinking how we as a team can do things in a better way.
+![](images/paste-2A0B5A91.png)
 
-**Skills:** AWS/Cloud, Machine Learning, Renewable Energy, R, Python, Rapid Prototyping, Apache Airflow,Energy Modelling, Geo-spatial Data
+![](images/paste-C93C196E.png){width="700"}
 
-![](images/paste-C93C196E.png)
-
-![](images/paste-2A0B5A91.png)<!-- I've worked to apply data science techniques to challenges, serving team lead in  -->
+<!-- I've worked to apply data science techniques to challenges, serving team lead in  -->
 
 <!-- On this site I keep a list of [my publications](papers), [presentations](talks),  -->
 
