@@ -1,7 +1,7 @@
 ---
 title: "Jacques Booysen"
 subtitle: "Senior Data Scientist | Expert in Energy Modelling & Renewable Energy | AWS Certified Solutions Architect | Let's solve complex problems together!"
-image: jacques.jpeg
+image: JB3.png
 about:
   template: trestles
   image-width: 15em
