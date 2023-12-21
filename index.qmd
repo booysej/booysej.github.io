@@ -9,7 +9,7 @@ about:
   links:
     - text: LinkedIn
       icon: linkedin
-      url: "https://www.linkedin.com/in/jacques-booysen-3a1b921/"
+      url: "https://www.linkedin.com/in/energydatascientist/"
     - text: GitHub
       icon: github
       url: "https://github.com/booysej"
