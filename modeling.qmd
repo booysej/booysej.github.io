@@ -1,7 +1,6 @@
 ---
 title: "Modeling"
 editor: visual
-jupyter: python3
 ---
 
 Find below an overview of some of the research and modelling projects i have been involved in and gained experience as a data scientist.[^1]
@@ -12,7 +11,7 @@ Find below an overview of some of the research and modelling projects i have bee
 
 #### Solar PV
 
--   Developed week ahead hourly forecast of Solar PV plants based on global circulation models ([GFS](https://en.wikipedia.org/wiki/Global_Forecast_System)), historic satellite data ([CAMS](https://atmosphere.copernicus.eu/sites/default/files/2022-01/CAMS2_73_2021SC1_D3.2.1_2021_UserGuide_v1.pdf)/[EUMETSAT](https://www.eumetsat.int/)), historic power output data. Modeled using XGBoost and Random Forest models.
+-   Developed week ahead hourly forecast of Solar PV plants based on global circulation models ([GFS](https://en.wikipedia.org/wiki/Global_Forecast_System)), historic satellite data ([CAMS](https://atmosphere.copernicus.eu/sites/default/files/2022-01/CAMS2_73_2021SC1_D3.2.1_2021_UserGuide_v1.pdf)/[EUMETSAT](https://www.eumetsat.int/)), historic power output data.
 
 -   R Shiny App interface for all Solar/Wind IPP plants using renewable models.
 
