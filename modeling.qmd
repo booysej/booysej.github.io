@@ -3,7 +3,7 @@ title: "Modeling"
 editor: visual
 ---
 
-Find below an overview of some of the research and modelling projects i have been involved in and gained experience as a data scientist.[^1]
+Find below an overview of only some of the research and modelling projects i have been involved in and gained experience as a data scientist.[^1] Including Demand and Supply Side forecasting, dynamic baselines for embedded solar customers, short and long term optimization etc.
 
 [^1]: This page was created by me with Quarto <https://quarto.org/>
 
