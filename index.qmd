@@ -14,7 +14,7 @@ about:
       icon: github
       url: "https://github.com/booysej"
     - text: CV
-      href: ./Jacques_Booysen_Senior_Data_Scientist.pdf
+      href: ./Resume_JacquesBooysen_2024.pdf
     - text: Email
       icon: envelope
       url: "mailto:booysenjacques@gmail.com"
