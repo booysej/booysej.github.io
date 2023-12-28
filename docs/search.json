@@ -180,5 +180,12 @@
     "title": "Data",
     "section": "Geo Spatial Data Experience",
     "text": "Geo Spatial Data Experience\n\nDigital Elevation model of South Africa\n\nThe Shuttle Radar Topography Mission (SRTM)\nExtracted and used to evaluate various temperature interpolation models for Eskom Transmission losses. (Eskom Research)\n\nIncluding Kriging, IDW and MLR\n\n\nSpatial LSM of South Africa\n\nUsed and linked to develop building density estimates in South Africa for electricity network planning. (GLF)\nAfriscope Spatial LSM Spatial Data\n\nElectrical distribution network lines spatial layers.\nEskom SPOT5 building count"
+  },
+  {
+    "objectID": "demo.html",
+    "href": "demo.html",
+    "title": "Demos",
+    "section": "",
+    "text": "#"
   }
 ]

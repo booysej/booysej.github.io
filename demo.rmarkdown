@@ -1,0 +1,17 @@
+---
+title: "Demos"
+subtitle: "A collection of toy demos"
+author: "Jacques Booysen"
+server: shiny
+---
+
+
+## demo R shiny app
+
+
+```{r}
+library(shiny)
+runExample("01_hello")
+
+```
+

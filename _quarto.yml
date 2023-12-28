@@ -9,6 +9,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - demo.qmd
       - cert.qmd
       - data.qmd
       - modeling.qmd
