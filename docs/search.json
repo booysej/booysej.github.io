@@ -186,6 +186,6 @@
     "href": "demo.html",
     "title": "Demos",
     "section": "",
-    "text": "Live version of Shiny app coming soon… Ideas i am working on in my spare time:\n\n\nCalculate the historic 15min renewable Solar PV and Wind profiles from 2015 - 2020 using ERA5 and CAMS irradiance with power output models for all 80237 generator locations and compare the aggregate to the country wide stats from transparency.entsoe.eu\nUse NWP models applied to all 80237 generator locations to do a day ahead country wide forecast\n\nCompare that forecast to the transparency.entsoe.eu forecast\n\nDetect Domestic rooftop solar installations from satellite images and do a domestic demand forecast per 6 digit postal code"
+    "text": "Live version of Shiny app coming soon… Ideas i am working on in my spare time using GIS and open data:\n\n\nCalculate the historic 15min renewable Solar PV and Wind profiles for 2015 - 2020 using ERA5 and CAMS irradiance with power output models for all 80237 generator locations and compare the aggregate to the country wide stats from transparency.entsoe.eu\nUse NWP models applied to all 80237 generator locations to do a day ahead country wide forecast\n\nCompare that forecast aggregate (bottom up model) to the transparency.entsoe.eu forecast\n\nDetect Domestic rooftop solar installations from satellite images and do a domestic demand forecast per 6 digit postal code"
   }
 ]
