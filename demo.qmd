@@ -4,10 +4,10 @@ title: "Demos"
 
 ## NL Grid / Congestion Viz Toy Project
 
-Live version coming soon...
+Live version of Shiny app coming soon...
 
 ![](images/clipboard-2203760453.png)
 
-![](images/clipboard-2974186903.png)
+![](images/clipboard-1446095831.png)
 
  <!-- <iframe width="780" height="400" src="https://quarto.org/" title="Quarto Documentation"></iframe> -->
