@@ -8,6 +8,6 @@ Live version of Shiny app coming soon...
 
 ![](images/clipboard-2203760453.png)
 
-![](images/clipboard-1446095831.png)
+![](images/clipboard-479522462.png)
 
  <!-- <iframe width="780" height="400" src="https://quarto.org/" title="Quarto Documentation"></iframe> -->
