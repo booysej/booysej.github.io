@@ -4,9 +4,17 @@ title: "Demos"
 
 ## NL Grid / Congestion Viz Toy Project
 
-Live version of Shiny app coming soon...
+Live version of Shiny app coming soon... Ideas i am working on in my spare time:
 
-![](images/clipboard-2203760453.png)
+![](images/clipboard-464465516.png)
+
+-   Calculate the historic 15min renewable Solar PV and Wind profiles from 2015 - 2020 using ERA5 and CAMS irradiance with power output models for all 80237 generator locations and compare the aggregate to the country wide stats from transparency.entsoe.eu
+
+-   Use NWP models applied to all 80237 generator locations to do a day ahead country wide forecast
+
+    -   Compare that forecast to the transparency.entsoe.eu forecast
+
+-   Detect Domestic rooftop solar installations from satellite images and do a domestic demand forecast per 6 digit postal code
 
 ![](images/clipboard-479522462.png)
 
